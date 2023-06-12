@@ -1,2 +1,2 @@
 # autoclicker-tutorial
-Tutorial for making your (kinda) advanced c++ autoclicker.
+Tutorial for making your first C++ minecraft clicker.
